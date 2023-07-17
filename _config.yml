@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yangguang Cui 崔阳光"
+title                    : "Yangguang Cui"
 description              : 
 repository               : "yangguangcui/yangguangcui.github.io"
 google_scholar_stats_use_cdn : 
@@ -21,7 +21,7 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "Yangguang Cui (崔阳光)"
+  name             : "Yangguang Cui \n 崔阳光"
   avatar           : "images/new_yangguang.jpg"
   bio              : "Assistant Professor in Shanghai University"
   location         : "Shanghai"
