@@ -9,15 +9,15 @@
 title                    : "Yangguang Cui   (崔阳光)"
 description              : "Assistant Professor in Shanghai University."
 repository               : "yangguangcui/yangguangcui.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : 
 
 # google analytics
-google_analytics_id      : G-SWFCX99KQZ
+google_analytics_id      : 
 
 # SEO Related
-google_site_verification : b_BbOIt7d513ZXYDw-YRMicO6O5tthYiouqWDdWjGTU
-bing_site_verification   : B5AA590E7B9C03956A6F7DEC0F776211
-baidu_site_verification  : code-ZxFK3f4pfb
+google_site_verification : 
+bing_site_verification   : 
+baidu_site_verification  : 
 
 # Site Author
 author:
@@ -27,9 +27,9 @@ author:
   location         : "Shanghai"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
-  email            : "rayeren613@gmail.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    :
+  email            : 
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "RayeRen"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : 
   dblp             : "https://dblp.org/pid/75/6568-6.html"
   orcid            : "https://orcid.org/0000-0002-9160-3848"
   pinterest        :
