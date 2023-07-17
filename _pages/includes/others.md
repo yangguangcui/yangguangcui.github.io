@@ -1,6 +1,6 @@
 
 # 📖 Educations
-- M.S & Ph.D (Computer Software and Theory) at East China Normal University, Shanghai, China(Sep, 2018 - Jun, 2023)
+- M.S & Ph.D (Computer Science and Technology) at East China Normal University, Shanghai, China(Sep, 2018 - Jun, 2023)
 - B.S (Computer Science and Technology) at East China Normal University, Shanghai, China(Sep, 2014 - Jul, 2018)
 
 # 💬 Invited Talks
