@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yangguang Cui   (崔阳光)"
-description              : "Assistant Professor in Shanghai University."
+description              : 
 repository               : "yangguangcui/yangguangcui.github.io"
 google_scholar_stats_use_cdn : 
 
@@ -23,7 +23,7 @@ baidu_site_verification  :
 author:
   name             : "Yangguang Cui (崔阳光)"
   avatar           : "images/new_yangguang.jpg"
-  bio              : 
+  bio              : "Assistant Professor in Shanghai University"
   location         : "Shanghai"
   employer         :
   pubmed           : 
