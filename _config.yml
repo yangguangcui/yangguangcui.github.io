@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yangguang Cui (cui)"
-description              : Assistant Professor in Shanghai University."
+title                    : "Yangguang Cui (崔阳光)"
+description              : "Assistant Professor in Shanghai University."
 repository               : "yangguangcui/yangguangcui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  : code-ZxFK3f4pfb
 
 # Site Author
 author:
-  name             : "Yi Ren (任意)"
+  name             : "Yangguang Cui (崔阳光)"
   avatar           : "images/ry_profile.jpeg"
-  bio              : "Bytedance AI Lab"
-  location         : "Singapore"
+  bio              : "Assistant Professor in Shanghai University."
+  location         : "Shanghai"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=4FA6C0AAAAAJ"
