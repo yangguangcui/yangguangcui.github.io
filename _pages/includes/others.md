@@ -12,4 +12,5 @@
 
 
 #  📚 Academic Services
+- I have served as an Associate Editor of the Journal of Circuits, Systems, and Computers (SCI indexed) since 2023.07
 - I have served in the reviewer/TPC of TII, NIPS, IoT J, JSPE, TJSC, JCSC, WASA, ICA3PP, HPCC, ICANN, UIC and many other journals/conferences.
