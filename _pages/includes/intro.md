@@ -1,3 +1,4 @@
 Yangguang Cui received the Ph.D. degree in Computer Science from East China Normal University, Shanghai, China, in 2023. 
 He is currently an assistant professor with the School of Computer Science, Shanghai University, Shanghai, China. 
 His current research interests are in the areas of Internet of Things/embedded systems, edge/fog/cloud computing, and artificial intelligence. He has published nearly 20 refereed papers in these areas, most of which are published in premium conferences and journals, including IEEE TCAD, IEEEE TII, IEEE T-ASE, IEEE/ACM TCBB, IEEE IOT, Elsevier JSA, IEEE/ACM DATE, IEEE BIBM, etc. 
+My email is ygcui@shu.edu.cn
