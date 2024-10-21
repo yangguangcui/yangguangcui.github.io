@@ -2,8 +2,9 @@
 - *2024.08*: 🎉 One paper got accepted by IEEE TII(SCI 一区top期刊).
 - *2024.09*: 🎉 I was invited to serve a Program Committee Member (TPC) of the IEEE HPCC 2024 (CCF C)
 - *2024.07*: 🎉 I was invited to serve a Program Committee Member (TPC) of the IEEE ISPA 2024 (CCF C)
-- *2023.10*: 🎉 One paper got accepted by IEEE Euro-PAR 2024(CCF B).
-- *2023.10*: 🎉 One paper got accepted by IEEE TC(CCF A).
+- *2024.05*: 🎉 One paper got accepted by Elsevier BSPC (SCI 二区).
+- *2024.05*: 🎉 One paper got accepted by IEEE Euro-PAR 2024 (CCF B).
+- *2023.10*: 🎉 One paper got accepted by IEEE TC (CCF A).
 - *2023.10*: 🎉 Two papers got accepted by MSN 2023.
 - *2023.10*: 🎉 I was invited to serve a Program Committee Member (TPC) of the IEEE ICPADS 2023 (CCF C)
 - *2023.08*: 🎉 One paper got accepted by CWSN 2023.
