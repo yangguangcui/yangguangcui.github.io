@@ -31,9 +31,10 @@
 - CCF ESTC 2024, etc
 #  📚 Program Committee Member (TPC)
 - Annual Conference on Neural Information Processing Systems (NIPS)
-- High Performance Computing and Communications (HPCC)2020&2021&2022&2024
+- High Performance Computing and Communications (HPCC)2020,2021,2022,2024
 - Symposium on Parallel and Distributed Processing with Applications (ISPA)
 - International Conference on Parallel and Distributed Systems (ICPADS) 
-- International Conference on Artificial Neural Networks (ICANN) 2022&2023
+- International Conference on Artificial Neural Networks (ICANN) 2022,2023
 - International Conference on Ubiquitous Intelligence and Computing (UIC)
+- International Conference on Wireless Algorithms, Systems, and Applications (WASA)
 - International Conference on Algorithms and Architectures for Parallel Processing (ICA3PP), etc
