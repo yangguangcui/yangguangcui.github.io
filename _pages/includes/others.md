@@ -19,7 +19,7 @@
 
 #  📚 Reviewer
 - IEEE Transactions on Computers 
-- IEEE Transactions on CAD of Integrated Circuits and Systems
+- IEEE Transactions on Mobile Computing
 - IEEE Transactions on Services Computing
 - IEEE Transactions on Industrial Informatics
 - IEEE Internet of Things Journal
