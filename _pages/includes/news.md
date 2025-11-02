@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025*: 🎉 One paper got accepted by IEEE IoTJ (中科院Top期刊)
 - *2025*: 🎉 恭喜Jiamei Li（李佳美）获得国家奖学金（My first master student）
 - *2025*: 🎉 One paper got accepted by IEEE IoTJ (中科院Top期刊)
 - *2025*: 🎉 入选CCF嵌入式系统博士激励计划
