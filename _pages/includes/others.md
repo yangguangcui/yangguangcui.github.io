@@ -17,8 +17,9 @@
 - Editorial Board members of the AI Insights
 - Guest Editor of the Electronics
 
-#  📚 Reviewer
-- IEEE Transactions on Computers 
+#  📚 Reviewer for 20+ Journal
+- IEEE Transactions on Computers
+- IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Services Computing
 - IEEE Transactions on Industrial Informatics
@@ -32,7 +33,7 @@
 - Cluster Computing
 - Journal of Circuits, Systems, and Computers
 - CCF ESTC 2024, etc
-#  📚 Program Committee Member (TPC)
+#  📚 Program Committee Member (TPC) for 10+ Conference
 - Annual Conference on Neural Information Processing Systems (NIPS)
 - High Performance Computing and Communications (HPCC)2020,2021,2022,2024
 - Symposium on Parallel and Distributed Processing with Applications (ISPA)
