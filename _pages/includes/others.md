@@ -24,8 +24,10 @@
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 - IEEE Transactions on Mobile Computing
 - IEEE Transactions on Services Computing
+- IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Industrial Informatics
 - IEEE Internet of Things Journal
+- Future Generation Computer Systems
 - ACM Transactions on Design Automation of Electronic Systems
 - Journal of Software: Practice and Experience
 - Journal of Systems Architecture: Embedded Software Design
