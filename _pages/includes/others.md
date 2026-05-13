@@ -19,7 +19,7 @@
 - Editorial Board members of the AI Insights
 
 
-#  📚 Reviewer for 20+ Journal
+#  📚 Reviewer for 30+ Journal
 - IEEE Transactions on Computers
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 - IEEE Transactions on Mobile Computing
