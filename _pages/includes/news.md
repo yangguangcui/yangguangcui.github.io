@@ -1,4 +1,11 @@
 # 🔥 News
+- *2026*: 🎉  I was invited to serve as the Editorial Board members of Scientific Reports (SCI-indexed)
+- *2026*: 🎉 One paper got accepted by IEEE TSC (CCF-A)
+- *2026*: 🎉 One paper got accepted by IEEE TCAD (CCF-A)
+- *2026*: 🎉 One paper got accepted by ACM KDD (CCF-A)
+- *2026*: 🎉 One paper got accepted by IEEE ICME (CCF-B)
+- *2026*: 🎉 One paper got accepted by IEEE TCC (CCF-B IEEE Trans)
+- *2026*: 🎉 获上海市计算机学会协同与信息服务专委会优秀论文奖（二等奖）
 - *2025*: 🎉 One paper got accepted by IEEE IoTJ (中科院Top期刊)
 - *2025*: 🎉 恭喜Jiamei Li（李佳美）获得国家奖学金（My first master student）
 - *2025*: 🎉 One paper got accepted by IEEE IoTJ (中科院Top期刊)
