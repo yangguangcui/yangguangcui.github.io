@@ -15,8 +15,9 @@
 - Associate Editor, Journal of Circuits, Systems, and Computers (SCI indexed)，2023-present.
 - Editorial Board members of Scientific Reports (SCI indexed)，2026-present.
 - Editorial Board members of the Deep Science Publishing
-- Editorial Board members of the AI Insights
 - Guest Editor of the Electronics (SCI indexed)
+- Editorial Board members of the AI Insights
+
 
 #  📚 Reviewer for 20+ Journal
 - IEEE Transactions on Computers
