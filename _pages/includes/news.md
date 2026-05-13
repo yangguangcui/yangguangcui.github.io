@@ -1,5 +1,5 @@
 # 🔥 News
-- *2026*: 🎉  I was invited to serve as the Editorial Board members of Scientific Reports (SCI-indexed)
+- *2026*: 🎉  I was invited to serve as the Editorial Board members of Scientific Reports (SCI-indexed) 
 - *2026*: 🎉 One paper got accepted by IEEE TSC (CCF-A)
 - *2026*: 🎉 One paper got accepted by IEEE TCAD (CCF-A)
 - *2026*: 🎉 One paper got accepted by ACM KDD (CCF-A)
