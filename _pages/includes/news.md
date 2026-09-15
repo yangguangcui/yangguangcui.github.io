@@ -1,4 +1,6 @@
 # 🔥 News
+- *2026*: 研究团队目前还有26级研究生名额（已入学），招完更新，欢迎联系。
+- *2026*: 2027级预推免研究生现阶段请勿联系我。
 - *2026*: 🎉  I was invited to serve as the Editorial Board members of Scientific Reports (SCI-indexed) 
 - *2026*: 🎉 One paper got accepted by IEEE TSC (CCF-A)
 - *2026*: 🎉 One paper got accepted by IEEE TCAD (CCF-A)
