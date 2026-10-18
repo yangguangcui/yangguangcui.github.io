@@ -14,12 +14,9 @@
 #  📚 Editorial Member
 - Associate Editor, Journal of Circuits, Systems, and Computers (SCI indexed)，2023-present.
 - Editorial Board members of Scientific Reports (SCI indexed)，2026-present.
-- Editorial Board members of the Deep Science Publishing
-- Guest Editor of the Electronics (SCI indexed)
-- Editorial Board members of the AI Insights
 
 
-#  📚 Reviewer for 30+ Journal
+#  📚 Reviewer for 40+ Journal
 - IEEE Transactions on Computers
 - IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems
 - IEEE Transactions on Mobile Computing
@@ -27,6 +24,7 @@
 - IEEE Transactions on Knowledge and Data Engineering
 - IEEE Transactions on Industrial Informatics
 - IEEE Internet of Things Journal
+- IEEE/ACM Transactions on Networking
 - Future Generation Computer Systems
 - ACM Transactions on Design Automation of Electronic Systems
 - Journal of Software: Practice and Experience
